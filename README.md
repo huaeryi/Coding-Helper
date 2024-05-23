@@ -53,8 +53,10 @@ Something helpful and their learning link. The idea is from MIT-Missing-Semester
 
 * #### Regular Expression
     * [在线匹配网站](https://regexr.com/)
-* [ ] todo
+
 * #### BNF
+
+* [x] 1.todo
 
 ### 开发/发布环境
 
